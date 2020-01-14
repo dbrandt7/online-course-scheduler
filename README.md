@@ -1,1 +1,1 @@
-# udemy-to-trello
+# online-course-scheduler
